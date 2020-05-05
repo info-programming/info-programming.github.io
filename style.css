@@ -1,0 +1,19 @@
+body {
+	padding: 20px;
+	color: #737373;
+	font-size: 1em;
+	font-family: Sans-serif;
+	background: #ffffff;
+}
+a {
+	color: #1e6ea7;
+}
+h1, h2 {
+	color: #404040;
+}
+h2 {
+	border-bottom: 1px solid #cccccc;
+}
+strong {
+	color: crimson;
+}
