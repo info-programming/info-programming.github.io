@@ -29,3 +29,13 @@ thead {
 tr:nth-child(even) {
 	background-color: rgba(0, 0, 255, 0.1);
 }
+span.icon {
+	border-radius: 3px;
+	color: white;
+	background-color: black;
+	font-weight: bold;
+	margin: auto 1px;
+	width: 1em;
+	display: inline-block;
+	text-align: center;
+}
